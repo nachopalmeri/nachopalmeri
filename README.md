@@ -2,9 +2,9 @@
 
 # Ignacio Palmeri
 
-### IT Management Student · AI-assisted Builder · Support & Automation
+### IT Management Student · AI-assisted Automation · Product & Fintech
 
-Building practical tools with Python, Linux, web dashboards and AI-assisted workflows.
+Building practical tools with Python, bots, dashboards and AI-assisted workflows.
 
 <a href="https://www.linkedin.com/in/ignaciopalmeri/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -26,10 +26,10 @@ Building practical tools with Python, Linux, web dashboards and AI-assisted work
 ## Focus
 
 ```text
-IT Support · Linux · Networking · Python Automation · AI-assisted Development
+AI-assisted Automation · Python · Bots · Dashboards · Product/Fintech
 ```
 
-Currently looking for a first part-time, trainee, internship or entry-level tech opportunity.
+Currently looking for a first part-time internship or trainee opportunity in AI-first, startup, fintech or product/automation teams.
 
 ---
 
