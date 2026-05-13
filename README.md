@@ -23,8 +23,8 @@
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nachopalmeri&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nachopalmeri&layout=compact&theme=transparent&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5" alt="" />
+  <img height="180" src="./profile/stats.svg" alt="" />
+  <img height="180" src="./profile/top-langs.svg" alt="" />
 </p>
 
 ---
