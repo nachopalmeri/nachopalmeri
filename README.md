@@ -14,6 +14,21 @@
 
 ---
 
+## GitHub activity
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=nachopalmeri&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nachopalmeri&show_icons=true&theme=dark&hide_border=true" alt="Ignacio's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nachopalmeri&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
 ## About me
 
 I'm an IT Management student at UADE, based in Buenos Aires, Argentina.
