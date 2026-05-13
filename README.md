@@ -33,6 +33,23 @@ Currently looking for a first part-time, trainee, internship or entry-level tech
 
 ---
 
+## Activity
+
+<div align="center">
+
+<a href="https://git.io/streak-stats">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=nachopalmeri&theme=dark&hide_border=false&border_radius=4.5" alt="GitHub Streak" />
+</a>
+
+<br />
+
+<img height="150" src="./profile/stats.svg" alt="" />
+<img height="150" src="./profile/top-langs.svg" alt="" />
+
+</div>
+
+---
+
 ## Stack
 
 <p align="center">
