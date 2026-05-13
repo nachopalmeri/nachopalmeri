@@ -18,13 +18,13 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=nachopalmeri&theme=transparent&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=nachopalmeri&theme=transparent&hide_border=true" alt="" />
   </a>
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nachopalmeri&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="Ignacio's GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nachopalmeri&layout=compact&theme=transparent&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nachopalmeri&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nachopalmeri&layout=compact&theme=transparent&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5" alt="" />
 </p>
 
 ---
@@ -83,6 +83,24 @@ Also familiar with:
 ---
 
 ## Featured projects
+
+<p align="center">
+  <a href="https://github.com/nachopalmeri/jobbot">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nachopalmeri&repo=jobbot&theme=transparent&hide_border=true&description_lines_count=2" />
+  </a>
+  <a href="https://github.com/nachopalmeri/FranquiYA">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nachopalmeri&repo=FranquiYA&theme=transparent&hide_border=true&description_lines_count=2" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/nachopalmeri/fulbotracker">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nachopalmeri&repo=fulbotracker&theme=transparent&hide_border=true&description_lines_count=2" />
+  </a>
+  <a href="https://github.com/nachopalmeri/dulcescreaciones">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nachopalmeri&repo=dulcescreaciones&theme=transparent&hide_border=true&description_lines_count=2" />
+  </a>
+</p>
 
 ### JobBot
 
