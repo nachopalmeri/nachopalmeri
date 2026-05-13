@@ -50,7 +50,9 @@ Currently looking for a first part-time, trainee, internship or entry-level tech
 
 ---
 
-## Stack
+## Tools I am learning and applying
+
+Technologies I am practicing through coursework, personal projects and AI-assisted development workflows.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,html,css,js,ts,nextjs,react,fastapi,postgres,vercel" />
@@ -94,3 +96,5 @@ Part-time · Trainee · Internship · Entry-level
 Buenos Aires, Argentina
 
 </div>
+
+
