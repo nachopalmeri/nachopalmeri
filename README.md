@@ -148,3 +148,5 @@ Mapa visual de mi sistema local de agentes, reglas y memoria. Orquestación, doc
 Disponible para pasantía o rol trainee · Buenos Aires, Argentina
 
 </div>
+
+<!-- last-updated: 2026-09-03 -->
