@@ -120,8 +120,8 @@ Mapa visual de mi sistema local de agentes, reglas y memoria. Orquestación, doc
 <br /><br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nachopalmeri/nachopalmeri/output/profile/snake-dark.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/nachopalmeri/nachopalmeri/output/profile/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nachopalmeri/nachopalmeri/output/snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/nachopalmeri/nachopalmeri/output/snake.svg" />
 </picture>
 
 </div>
