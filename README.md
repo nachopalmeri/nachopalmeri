@@ -149,4 +149,4 @@ Disponible para pasantía o rol trainee · Buenos Aires, Argentina
 
 </div>
 
-<!-- last-updated: 2026-09-03 -->
+<!-- last-updated: 2026-09-05 -->
