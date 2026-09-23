@@ -12,7 +12,7 @@ Estudiante de Gestión IT (UADE) que convierte procesos repetitivos en software 
 <a href="https://github.com/nachopalmeri">
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://ignaciopalmeri.vercel.app/">
+<a href="https://ignaciopalmeri.dev/">
   <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://jobbot-lime.vercel.app/">
@@ -143,7 +143,7 @@ Mapa visual de mi sistema local de agentes, reglas y memoria. Orquestación, doc
 
 ### Más contexto, decisiones técnicas y casos reales
 
-**→ [ignaciopalmeri.vercel.app](https://ignaciopalmeri.vercel.app/)**
+**→ [ignaciopalmeri.dev](https://ignaciopalmeri.dev/)**
 
 Disponible para pasantía o rol trainee · Buenos Aires, Argentina
 
