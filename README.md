@@ -114,8 +114,8 @@ Mapa visual de mi sistema local de agentes, reglas y memoria. Orquestación, doc
 
 <br />
 
-<img height="150" src="./profile/stats.svg" alt="" />
-<img height="150" src="./profile/top-langs.svg" alt="" />
+<img height="150" src="./profile/stats.svg" alt="Estadísticas de GitHub de nachopalmeri" />
+<img height="150" src="./profile/top-langs.svg" alt="Lenguajes más usados por nachopalmeri en GitHub" />
 
 <br /><br />
 
